@@ -22,7 +22,7 @@
         },
         {
             "name": "Server ­– Node",
-            "type": "pwa-node",
+            "type": "node",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
